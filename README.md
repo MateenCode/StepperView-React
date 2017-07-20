@@ -1,5 +1,6 @@
 ## StepperView-React
-React, Props, State
+
+A simple Stepper view that demonstrates the use of React and working with Props, State.
 
 
 ## ScreenShot
